@@ -23,11 +23,6 @@ export function Sign() {
 
   return (
     <VStack flex={1} alignItems="center" bg="gray.600" px={8} pt={24}>
-      <StatusBar
-        barStyle="light-content"
-        backgroundColor="transparent"
-        translucent
-      />
 
       <Logo />
 
