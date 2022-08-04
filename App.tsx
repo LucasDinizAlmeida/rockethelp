@@ -1,10 +1,10 @@
-
 import React from 'react';
 import { useFonts, Roboto_400Regular, Roboto_700Bold } from '@expo-google-fonts/roboto'
 import { NativeBaseProvider, StatusBar } from 'native-base'
 import { THEME } from './src/styles/theme'
 import { Loading } from './src/components/Loading';
 import { Routes } from './src/routes';
+import { Home } from './src/screens/Home';
 
 export default function App() {
 
