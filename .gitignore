@@ -117,4 +117,4 @@ dist/
 
 #google Firebase Keys
 google-services.json
-GoogleServices-info.plist
+GoogleService-Info.plist
